@@ -16,7 +16,7 @@ echo -e "\e[036m" "╔═══════════════════�
 echo -e "\e[032m" "     ♚ Project Name : 🆃🅴🆁🅼🆄🆇-🆈🆃🅳™           "
 echo -e "\e[032m" "     ♚ Author : MR.DEVIL.BRAND                               "
 echo -e "\e[032m" "     ♚ PROGRAMMER & DARK HACKER                   "
-echo -e "\e[032m" "║ ♚ MR.DEVIL,, LORD  OF  DARK  WORLD             "
+echo -e "\e[032m" "   《MR.DEVIL,, LORD  OF  DARK  WORLD》             "
 echo -e "\e[036m" "╠════════════════════════════════════════╝"
 echo -e "\e[036m" "╠═▶ [𝗦𝗲𝗹𝗲𝗰𝘁 𝗔 𝗙𝗼𝗿𝗺𝗮𝘁]  ➳"
 echo -e "\e[032m" "╠═▶ 1. Music Mp3♫"
